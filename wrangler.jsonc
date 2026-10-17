@@ -54,12 +54,6 @@
             "migrations_dir": "packages/server/migrations"
         }
     ],
-    "r2_buckets": [
-        {
-            "binding": "BUCKET",
-            "bucket_name": "mail2telegram"
-        }
-    ],
     "ai": {
         "binding": "AI"
     }
