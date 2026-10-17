@@ -13,10 +13,10 @@ TELEGRAM_ID=
 WEB_PASSWORD=
 
 # Optional: Resend API key, enables replying to email from Telegram / the Mini App.
-RESEND_API_KEY=
+# RESEND_API_KEY=
 
 # Optional: OpenAI-compatible API key used as the default summary backend.
-OPENAI_API_KEY=
+# OPENAI_API_KEY=
 
 # Optional: worker host used for webhook and Mini App links. When unset, the
 # worker discovers its own host during /init, so most deployments leave this
